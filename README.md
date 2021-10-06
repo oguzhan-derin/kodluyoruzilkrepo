@@ -6,11 +6,11 @@ Bu repo [Kodluyoruz](http://https://www.kodluyoruz.org/) Front-End Eğitiminde o
 ## Installation
 Öncelikle projeyi clonelayın.
 
-` ` ` 
+`
 
 git clone https://github.com/oguzhan-derin/kodluyoruzilkrepo.git
 
-` ` ` 
+`
 
 ## Usage
 
@@ -18,11 +18,11 @@ Projeyi cloneladıktan sonra Visual Studio programında açınız.
 
 ### Linux için
 
-` ` ` 
+`
 cd kodluyoruzilkrepo
 
 code .
-` ` ` 
+`
 
 ## Contributing
 
